@@ -1,0 +1,13 @@
+Use a logarithmic amplifier. Put a diode in feedback with an op-amp and it does that for you
+
+2 LEDs: 660nm(red) and 940nm(infrared) typical
+LEDs flash at 30Hz
+LUT to convert Oxygenated:deoxygenated haemoglobin ratio
+
+How it works, with diagrams: http://www.howequipmentworks.com/physics/respi_measurements/oxygen/oximeter/pulse_oximeter.html
+
+Will need a variable amp to change the the amplification for it to work properly. Else do it digitally?
+
+Start by getting a basic pulse meter working first!
+
+Finger Clamp can be printed from CSE devspace, schematics are online on thingiverse website.

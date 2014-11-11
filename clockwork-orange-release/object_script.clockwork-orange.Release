@@ -1,0 +1,13 @@
+INPUT(
+./release/clockwork-orange.o
+./release/plot.o
+./release/qcustomplot.o
+./release/device.o
+./release/main_window.o
+./release/plot_window.o
+./release/moc_qcustomplot.o
+./release/moc_main_window.o
+./release/moc_value.o
+./release/moc_plot_window.o
+./release/moc_form_layout.o
+);

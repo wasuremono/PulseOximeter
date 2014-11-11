@@ -1,0 +1,5 @@
+how it works            :     http://www.howequipmentworks.com/physics/respi_measurements/oxygen/oximeter/pulse_oximeter.html
+The math                :     http://www.freescale.com/files/32bit/doc/app_note/AN4327.pdf
+TI block diagram        :     http://www.ti.com/solution/pulse-oximetry-diagram
+MSP430 single-chipdesign:     http://www.ti.com/general/docs/litabsmultiplefilelist.tsp?literatureNumber=slaa274ib
+AFE4400 datasheet       :     http://www.ti.com/lit/ds/symlink/afe4400.pdf
